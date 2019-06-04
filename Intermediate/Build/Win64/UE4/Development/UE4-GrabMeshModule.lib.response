@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"D:\ue_projects\GrabMeshTest\Plugins\GrabMeshModule\Intermediate\Build\Win64\UE4\Development\GrabMeshModule\Module.GrabMeshModule.cpp.obj"
+"D:\ue_projects\GrabMeshTest\Plugins\GrabMeshModule\Intermediate\Build\Win64\UE4\Development\GrabMeshModule\Module.GrabMeshModule.gen.cpp.obj"
+"D:\ue_projects\GrabMeshTest\Intermediate\Build\Win64\UE4\Development\GrabMeshModule\PCLaunch.rc.res"
+/OUT:"D:\ue_projects\GrabMeshTest\Plugins\GrabMeshModule\Binaries\Win64\UE4-GrabMeshModule.lib"

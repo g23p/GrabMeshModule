@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GrabMeshModule-1666.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\ue_projects\GrabMeshTest\Plugins\GrabMeshModule\Intermediate\Build\Win64\UE4Editor\Development\GrabMeshModule\Module.GrabMeshModule.cpp.obj"
+"D:\ue_projects\GrabMeshTest\Plugins\GrabMeshModule\Intermediate\Build\Win64\UE4Editor\Development\GrabMeshModule\Module.GrabMeshModule.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\GrabMeshModule\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\ue_projects\GrabMeshTest\Plugins\GrabMeshModule\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GrabMeshModule-1666.lib"
