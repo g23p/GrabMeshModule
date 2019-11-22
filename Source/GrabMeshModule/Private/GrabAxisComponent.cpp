@@ -335,7 +335,7 @@ float UGrabAxisComponent::GetDegreesBetweenTwoVector(FVector Vector1, FVector Ve
 
 float UGrabAxisComponent::GetRadiansBetweenTwoVector(FVector Vector1, FVector Vector2)
 {
-	return acosf(FVector::DotProduct(Vector1.GetSafeNormal(), Vector2.GetSafeNormal()));
+	return FMath::Acos(FVector::DotProduct(Vector1.GetSafeNormal(), Vector2.GetSafeNormal()));
 }
 
 void UGrabAxisComponent::OnRelease()
